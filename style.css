@@ -1,0 +1,37 @@
+#back{
+	background-image: url("https://i.imgur.com/hjN3RDe.png");
+}
+
+h1{color: darkslateblue;}
+
+#li{display: inline-block;}
+
+#p{text-align: center;}
+
+#Contact{text-align: center;}
+
+.resumeStuff{
+	text-align: center;
+}
+
+ul {list-style-type: none;
+}
+
+
+.navbar,.navbar li
+{
+    float:center;
+}
+
+#alice {background-color: aliceblue;
+
+}
+
+#peach {background-color: peachpuff;
+}
+
+#dim {border-style: ridge; background-color: white
+}
+
+#nom {background-color: slategrey}
+
