@@ -17,10 +17,11 @@ h1{color: darkslateblue;}
 ul {list-style-type: none;
 }
 
+.navbar ul{
+	margin: 0 auto
+}
 
-.navbar,.navbar li
-{
-    float:center;
+#header{text-align: center;
 }
 
 #alice {background-color: aliceblue;
@@ -35,3 +36,5 @@ ul {list-style-type: none;
 
 #nom {background-color: slategrey}
 
+#CTI {color: white
+}
