@@ -8,7 +8,8 @@ h1{color: darkslateblue;}
 
 #p{text-align: center;}
 
-#Contact{text-align: center;}
+#Contact{text-align: center;
+}
 
 .resumeStuff{
 	text-align: center;
@@ -36,5 +37,8 @@ ul {list-style-type: none;
 
 #nom {background-color: slategrey}
 
-#CTI {color: white
+#CTI {color: white;
+}
+
+#Lou {color: white;
 }
